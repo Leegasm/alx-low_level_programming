@@ -5,9 +5,9 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - main function
- *
- * Return: always 0
+ * main - assign a random number to the variable n each time it is executed
+ * The string Last digit of n
+ * Return: 0
  */
 int main(void)
 {
